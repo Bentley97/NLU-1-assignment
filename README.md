@@ -10,4 +10,4 @@ Hoping it will be appriciated, I created a Colab notebook because I had some pro
 
 Anyway, I put code and report for each function all together in the notebook.
 
-If You want to run it, you should be able to open it clicking on "Open in Colab" at the top of the notebook.
+If you want to run it, you should be able to open it clicking on "Open in Colab" at the top of the notebook.
