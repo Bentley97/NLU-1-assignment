@@ -8,4 +8,6 @@
 
 Hoping it will be appriciated, I created a Colab notebook because I had some problems in installing spaCy on my personal laptop.
 
-Anyway, I put code and report for each function all together in the notebook. You want to run it, you should be able to open it. 
+Anyway, I put code and report for each function all together in the notebook.
+
+If You want to run it, you should be able to open it clicking on "Open in Colab" at the top of the notebook.
